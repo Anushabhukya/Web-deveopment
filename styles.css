@@ -1,0 +1,21 @@
+body{
+    background-color : yellow;
+ }
+h1{
+ color:#44336A;font-style:italic bold;font-size:50px;
+}
+h2{
+ color : red;font-size:25px;font-style:italic bold;margin-left:20px;
+}
+ul{
+ color : purple;font-size:20px;margin-left:40px;
+}
+h3{
+color : darkred;font-size:25px;font-style:italic bold;margin-left:25px;
+}
+p{
+font-size:20px;margin-left:40px;
+}
+p1{
+font-size:15px
+}
